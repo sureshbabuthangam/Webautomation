@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ItemPageTest" duration-ms="26843" started-at="2020-01-19T22:49:39Z" finished-at="2020-01-19T22:50:06Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="26843" started-at="2020-01-19T22:49:39Z" finished-at="2020-01-19T22:50:06Z">
+      <class name="ItemPageTest">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:ItemPageTest@5faeada1]" name="beforeMethod" is-config="true" duration-ms="2902" started-at="2020-01-19T17:49:39Z" finished-at="2020-01-19T17:49:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void ItemPageTest.testCase1()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@74ad1f1f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:ItemPageTest@5faeada1]" name="testCase1" duration-ms="12976" started-at="2020-01-19T17:49:42Z" finished-at="2020-01-19T17:49:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:ItemPageTest@5faeada1]" name="afterMethod" is-config="true" duration-ms="2" started-at="2020-01-19T17:49:55Z" finished-at="2020-01-19T17:49:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testCase1 status=SUCCESS method=ItemPageTest.testCase1()[pri:0, instance:ItemPageTest@5faeada1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:ItemPageTest@5faeada1]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2020-01-19T17:49:55Z" finished-at="2020-01-19T17:49:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void ItemPageTest.testCase2()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@74ad1f1f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testCase2()[pri:2, instance:ItemPageTest@5faeada1]" name="testCase2" duration-ms="10340" started-at="2020-01-19T17:49:55Z" finished-at="2020-01-19T17:50:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:ItemPageTest@5faeada1]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-01-19T17:50:05Z" finished-at="2020-01-19T17:50:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testCase2 status=SUCCESS method=ItemPageTest.testCase2()[pri:2, instance:ItemPageTest@5faeada1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:ItemPageTest@5faeada1]" name="afterClass" is-config="true" duration-ms="612" started-at="2020-01-19T17:50:05Z" finished-at="2020-01-19T17:50:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest(org.testng.ITestContext)[pri:0, instance:ItemPageTest@5faeada1]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-01-19T17:50:06Z" finished-at="2020-01-19T17:50:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@74ad1f1f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- ItemPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- ItemPageTest -->
+</testng-results>
